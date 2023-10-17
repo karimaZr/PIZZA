@@ -1,7 +1,7 @@
 # Pizza
 Pizza Recipes est une application mobile sous Android permettant de
 présenter les différentes recettes de pizza.
-https://github.com/karimaZr/Pizza/issues/1#issue-1948083275
+https://github.com/karimaZr/Pizza/assets/128175856/ea6a5a97-0a90-466c-bcb5-a51fa3842de9
 Lorsqu'on ouvre l'application,une page de démarrage (animation) est affichée.
  ![WhatsApp Image 2023-10-15 à 22 05 42_c555180c](https://github.com/karimaZr/Pizza/assets/128175856/388a188c-9db4-45b9-b3e1-3690bbe257b2)
 
